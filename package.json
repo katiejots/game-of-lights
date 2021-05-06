@@ -29,7 +29,7 @@
     "browserify": "~3.41.0",
     "express": "^4.17.1",
     "holiday-udp": "~0.1.2",
-    "underscore": "~1.6.0"
+    "underscore": "~1.12.1"
   },
   "devDependencies": {},
   "bundleDependencies": [],
